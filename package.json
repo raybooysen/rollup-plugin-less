@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-less",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a rollup plugin for less files",
   "main": "dist/rollup-plugin-less.js",
   "jsnext:main": "dist/rollup-plugin-less.mjs",
@@ -16,7 +16,7 @@
     "less",
     "rollup-plugin"
   ],
-  "author": "yangxiaofu",
+  "author": "raybooysen",
   "license": "ISC",
   "dependencies": {
     "babel-runtime": "^6.26.0",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaofuzi/rollup-plugin-less"
+    "url": "https://github.com/raybooysen/rollup-plugin-less"
   },
   "devDependencies": {
     "assert": "^1.4.1",
