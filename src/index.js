@@ -23,9 +23,8 @@ const appendToFile = (path, contents) => {
                 reject(err)
             }
 
-            fs.appendFile(path, contents)
-                .then(r => resolve(r))
-                .catch(err => reject(err));
+            fs.appendFileSync(path, contents)
+            resolve(r);
         });
     });
 }
