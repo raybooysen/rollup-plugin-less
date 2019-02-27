@@ -24,7 +24,7 @@ const appendToFile = (path, contents) => {
             }
 
             fs.appendFileSync(path, contents)
-            resolve(r);
+            resolve();
         });
     });
 }
