@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-less",
+  "name": "@raybooysen/rollup-plugin-less",
   "version": "0.1.2",
   "description": "a rollup plugin for less files",
   "main": "dist/rollup-plugin-less.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raybooysen/rollup-plugin-less"
+    "url": "git+https://github.com/raybooysen/rollup-plugin-less.git"
   },
   "devDependencies": {
     "assert": "^1.4.1",
@@ -41,5 +41,12 @@
     "rollup-plugin-babel": "^2.7.1",
     "rollup-plugin-node-resolve": "^2.0.0",
     "source-map-support": "^0.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/raybooysen/rollup-plugin-less/issues"
+  },
+  "homepage": "https://github.com/raybooysen/rollup-plugin-less#readme",
+  "directories": {
+    "test": "test"
   }
 }
