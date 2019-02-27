@@ -1,3 +1,6 @@
+## Why did we fork?
+Until https://github.com/xiaofuzi/rollup-plugin-less/issues/24 is fixed, the rollup plugin is broken if you use multiple less files.
+
 ## Install
 
 ```node
