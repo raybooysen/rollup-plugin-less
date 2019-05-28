@@ -40,10 +40,11 @@ If you specify `true`, the plugin will insert compiled CSS into `<head/>` tag.
 
 + Default: `rollup.build.css`
 
-+ Type: `String|Function`
++ Type: `String|Function|Boolean`
 
 If you specify a string, it will be the path to write the generated CSS.
 If you specify a function, call it passing the generated CSS as an argument.
+If you specify a boolean, true will write the generated CSS to `rollup.build.css`, false won't write the file.
 
 ### include
 
