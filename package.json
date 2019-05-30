@@ -23,7 +23,7 @@
     "fs-extra": "^0.30.0",
     "less": "^3.9.0",
     "mkdirp": "^0.5.1",
-    "rollup": "^0.34.7",
+    "rollup": "^1.12.5",
     "rollup-pluginutils": "^1.5.1",
     "growl": ">=1.10.0"
   },
