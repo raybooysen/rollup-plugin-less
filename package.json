@@ -41,7 +41,7 @@
     "mocha": "^3.0.2",
     "rollup-plugin-babel": "^2.7.1",
     "rollup-plugin-node-resolve": "^4.2.4",
-    "source-map-support": "^0.4.2"
+    "source-map-support": "^0.5.12"
   },
   "bugs": {
     "url": "https://github.com/raybooysen/rollup-plugin-less/issues"
