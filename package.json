@@ -40,7 +40,7 @@
     "eslint": "^5.16.0",
     "mocha": "^3.0.2",
     "rollup-plugin-babel": "^2.7.1",
-    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-node-resolve": "^4.2.4",
     "source-map-support": "^0.4.2"
   },
   "bugs": {
